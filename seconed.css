@@ -1,0 +1,27 @@
+p{
+    color: blue;
+}
+#latest{
+    color:aqua ;
+    border: 2px solid black;
+    border-style: dotted;
+}
+.ai{
+    color: cadetblue;
+}
+.a3{
+    letter-spacing: 0px;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background-color: aquamarine;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+    width: 20%;
+    height: 70%;
+}

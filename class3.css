@@ -1,0 +1,27 @@
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    gap: 20px;
+}
+.con-1{
+    flex: 1 1 25%;
+    background-color: aqua;
+}
+.con-2{
+    flex: 1 1 50%;
+    display: flex;
+    gap: 20px;
+}
+.con-2-1{
+    background-color: aquamarine;
+    flex: 1 1 25%;
+}
+.con-2-2{
+    background-color: bisque;
+    flex: 1 1 75%;
+}
+.con-3{
+       flex: 1 1 25%;
+       background-color: rgb(187, 116, 23);
+}
